@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/VeuPWA/js/about.1bb4f9f2.js"
   },
   {
-    "revision": "e5373288f2ad751dd7ee63b3d0b5461c",
+    "revision": "aa19f0f461280a27bb522a4ed0070714",
     "url": "/VeuPWA/index.html"
   },
   {

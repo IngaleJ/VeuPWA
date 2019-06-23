@@ -14,10 +14,10 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/VeuPWA/precache-manifest.57e6f95faff9cb677a8c30a9b8c6364b.js"
+  "/VeuPWA/precache-manifest.604430b769089193cba7f6b9adb3c13d.js"
 );
 
-workbox.core.setCacheNameDetails({prefix: "vue-pwa-tutorial"});
+workbox.core.setCacheNameDetails({prefix: "vue-pwa"});
 
 /**
  * The workboxSW.precacheAndRoute() method efficiently caches and responds to
